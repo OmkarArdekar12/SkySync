@@ -54,7 +54,7 @@ export default function SearchBox({ updateInfo, emptyInfo }) {
 
   return (
     <div className="SearchBox">
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="container">
         <TextField
           id="city"
           label="City Name"

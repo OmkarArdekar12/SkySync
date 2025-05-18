@@ -16,7 +16,7 @@ export default function WeatherApp() {
 
   return (
     <div className="WeatherApp">
-      <h1>SkySync - Weather App</h1>
+      <h1>SkySync</h1>
       <SearchBox updateInfo={updateInfo} emptyInfo={emptyInfo} />
       <InfoBox info={weatherInfo} />
     </div>
