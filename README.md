@@ -4,6 +4,6 @@
 
 <h3><img src="./public/weatherAppLogo.png" width="32px"/> <a href="https://skysync-weather.onrender.com">SkySync: https://skysync-weather.onrender.com</a></h3>
 
-### Technologies Used: React.js, JavaScript, Material UI, CSS3, HTML5, OpenWeather API, Render
+### Technologies Used: <br> React.js, JavaScript, Material UI, CSS3, HTML5, OpenWeather API, Render
 
 <!-- <h3><a href="https://skysync-a53d.onrender.com">SkySync: https://skysync-a53d.onrender.com</a></h3> -->
